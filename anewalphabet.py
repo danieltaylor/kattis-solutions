@@ -1,0 +1,5 @@
+text = input()
+
+text = text.replace('a', '@').replace('b', '8').replace('c', '(').replace('d', '|)').replace('e', '3').replace('f', '#').replace('g', '6').replace('h', '[-]').replace('i', '|').replace('j', '_|').replace('k', '|<').replace('l', '1').replace('m', '[]\/[]').replace('n', '[]\[]').replace('o', '0').replace('q', '(,)').replace('s', '$').replace('t', "']['").replace('u', '|_|').replace('v', '\/').replace('w', '\/\/').replace('x', '}{').replace('y', '`/').replace('z', '2').replace('A', '@').replace('B', '8').replace('C', '(').replace('D', '|)').replace('E', '3').replace('F', '#').replace('G', '6').replace('H', '[-]').replace('I', '|').replace('J', '_|').replace('K', '|<').replace('L', '1').replace('M', '[]\/[]').replace('N', '[]\[]').replace('O', '0').replace('Q', '(,)').replace('S', '$').replace('T', "']['").replace('U', '|_|').replace('V', '\/').replace('W', '\/\/').replace('X', '}{').replace('Y', '`/').replace('Z', '2').replace('p', '|D').replace('P', '|D').replace('r', '|Z').replace('R', '|Z')
+
+print(text)
